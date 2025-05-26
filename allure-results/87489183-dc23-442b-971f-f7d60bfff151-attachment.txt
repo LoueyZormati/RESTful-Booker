@@ -1,0 +1,10 @@
+Token: a1d8fcbf894a9e7
+Booking ID: 3063
+Response Body {
+  firstname: 'Jeffrey',
+  lastname: 'Jhonson',
+  totalprice: 778,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-01-01', checkout: '2025-12-20' },
+  additionalneeds: 'breakfast'
+}

@@ -1,0 +1,10 @@
+Token: b6e27d2f463e6f0
+Booking ID: 4770
+Response Body {
+  firstname: 'Linda',
+  lastname: 'Jhonson',
+  totalprice: 992,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-01-01', checkout: '2025-12-20' },
+  additionalneeds: 'breakfast'
+}

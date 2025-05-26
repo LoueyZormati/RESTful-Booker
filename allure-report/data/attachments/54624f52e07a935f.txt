@@ -1,0 +1,10 @@
+Token: fb233c5886fccf5
+Booking ID: 4795
+Response Body {
+  firstname: 'Donald',
+  lastname: 'Jhonson',
+  totalprice: 315,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-01-01', checkout: '2025-12-20' },
+  additionalneeds: 'breakfast'
+}

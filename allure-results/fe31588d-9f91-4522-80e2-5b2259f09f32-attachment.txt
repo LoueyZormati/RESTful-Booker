@@ -1,0 +1,10 @@
+Token: 8484b727c898692
+Booking ID: 2743
+Response Body {
+  firstname: 'Nancy',
+  lastname: 'Jhonson',
+  totalprice: 727,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-01-01', checkout: '2025-12-20' },
+  additionalneeds: 'breakfast'
+}
